@@ -5,7 +5,7 @@
 - 👩🏻 Pronouns: She/Her
 - 📝 Fun fact: I enjoy writing documentation and having stuff organized
 
-[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2)](https://github.com/anuraghazra/github-readme-stats)
+[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **karenwky/karenwky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
