@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Karen Wong 👋🐱💻
+
+- 🌱 I’m currently learning Cloud Computing (AWS/Microsoft Azure) and LLM Agents ([UC Berkeley MOOC](https://llmagents-learning.org/f24))
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/wongkayankaren) or [Email](wongkayankaren@gmail.com)
+- 👩🏻 Pronouns: She/Her
+- 📝 Fun fact: I enjoy writing documentation and having stuff organized
+
+[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **karenwky/karenwky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
