@@ -11,7 +11,7 @@
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-ai-practitioner.png" width="70"></img>](https://www.credly.com/badges/b9135768-b79c-4d3a-984f-8f14bc443208/public_url)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-ai-practitioner-early-adopter.png" width="70"></img>](https://www.credly.com/badges/7d5bb788-b233-4aa9-b194-84ffd0c85c85/public_url)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-cloud-practitioner.png" width="70"></img>](https://www.credly.com/badges/f23a7704-c18f-419a-af81-f344cc4de9dd/public_url)
-[<img src="https://github.com/karenwky/karenwky/blob/main/img/tm1-developer-credential.png" width="70"></img>](https://api.badgr.io/public/assertions/xSvKe9TLQn69CIp1U9B1Rw?identity__email=kwong%40cubewise.com)
+[<img src="https://github.com/karenwky/karenwky/blob/main/img/tm1-developer-credential.png" width="70"></img>](https://badgr.com/public/assertions/xSvKe9TLQn69CIp1U9B1Rw)
 
 [![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
