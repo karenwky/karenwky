@@ -1,9 +1,9 @@
 ## Hi there, I'm Karen Wong 👋🐱💻
 
-- 🌱 I’m currently learning Cloud Computing (AWS/Microsoft Azure) and LLM Agents ([UC Berkeley MOOC](https://llmagents-learning.org/f24))
+- 🌱 I’m currently learning [Math for ML](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg), [Practical DL](https://course.fast.ai/) and LLM Agents (UC Berkeley MOOC [Fall '24](https://llmagents-learning.org/f24) | [Spring '25](https://llmagents-learning.org/sp25))
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/wongkayankaren) or [Email](wongkayankaren@gmail.com)
 - 👩🏻 Pronouns: She/Her
-- 📝 Fun facts: I enjoy asking AI for things that I can't figure them out, writing documentation and having stuff organized
+- 📝 Fun facts: I enjoy asking AI questions, writing documentation and having stuff organized
 
 ### Certifications
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-machine-learning-engineer-associate.png" width="70"></img>](https://www.credly.com/badges/c2465f05-110d-459e-a945-c43b0fbd9cbe/public_url)
