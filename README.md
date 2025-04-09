@@ -1,8 +1,10 @@
 ## Hi there, I'm Karen Wong 👋🐱💻
 
 - 🌱 I’m currently learning [Math for ML](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg), [Practical DL](https://course.fast.ai/) and LLM Agents (UC Berkeley MOOC [Fall '24](https://llmagents-learning.org/f24) | [Spring '25](https://llmagents-learning.org/sp25))
+- 📖 I'm currently reading [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) and [No ML Degree](https://www.emilwallner.com/p/no-ml-degree)
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/wongkayankaren) or [Email](wongkayankaren@gmail.com)
 - 👩🏻 Pronouns: She/Her
+- 🐱 Profile pic generated with [Playground v2.5](https://playground.com/)
 - 📝 Fun facts: I enjoy asking AI questions, writing documentation and having stuff organized
 
 ### Certifications
