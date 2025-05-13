@@ -1,7 +1,7 @@
 ## Hi there, I'm Karen Wong 👋🐱💻
 
-- 🌱 I’m currently learning [Math for ML](https://www.youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg), [Practical DL](https://course.fast.ai/) and LLM Agents (UC Berkeley MOOC [Fall '24](https://llmagents-learning.org/f24) | [Spring '25](https://llmagents-learning.org/sp25))
-- 📖 I'm currently reading [Machine Learning Interviews Book](https://huyenchip.com/ml-interviews-book/) and [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World](https://radekosmulski.com/meta-learning-introduction/)
+- 🌱 I’m currently learning [Agents Course](https://huggingface.co/learn/agents-course/) by Hugging Face and [Practical Deep Learning for Coders](https://course.fast.ai/) by fast.ai
+- 🛠️ I'm currently working on a [🐾 Multi-Task Pet Health Text Classifier](https://huggingface.co/spaces/karenwky/multi-task-pet-health-symptom-text-classifier-demo) project
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/wongkayankaren) or [Email](wongkayankaren@gmail.com)
 - 👩🏻 Pronouns: She/Her
 - 🐱 Profile pic generated with [Playground v2.5](https://playground.com/)
@@ -17,16 +17,6 @@
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-ai-practitioner-early-adopter.png" width="70"></img>](https://www.credly.com/badges/7d5bb788-b233-4aa9-b194-84ffd0c85c85/public_url)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-cloud-practitioner.png" width="70"></img>](https://www.credly.com/badges/f23a7704-c18f-419a-af81-f344cc4de9dd/public_url)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/tm1-developer-credential.png" width="70"></img>](https://badgr.com/public/assertions/xSvKe9TLQn69CIp1U9B1Rw)
-
----
-
-### Reading List
-
-🔁 [Machine Learning Interviews Book | Chip Huyen](https://huyenchip.com/ml-interviews-book/)
-
-🔁 [Meta Learning: How To Learn Deep Learning And Thrive In The Digital World | Radek Osmulski](https://radekosmulski.com/meta-learning-introduction/)
-
-✅ [No ML Degree | Emil Wallner](https://www.emilwallner.com/p/no-ml-degree)
 
 ---
 
