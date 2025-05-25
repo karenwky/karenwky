@@ -28,7 +28,7 @@
 
 ---
 
-[![Karen Wong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Karen Wong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&border_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **karenwky/karenwky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,6 +44,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Profile README Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karenwky.karenwky)
 [![Karen Wong's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenwky)](https://github.com/anuraghazra/github-readme-stats)
 [![Karen Wong's GitHub Stats Detail](https://github-readme-stats.vercel.app/api?username=karenwky&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing&mode=light&style=horizontal)](https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing)
+show social card of website, reference from: https://github.com/xiaoluoboding/xiaoluoboding/blob/master/README.md
 -->
