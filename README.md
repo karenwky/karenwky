@@ -1,11 +1,19 @@
 ## Hi there, I'm Karen Wong 👋🐱💻
-
-- 🌱 I’m currently learning [Agents Course](https://huggingface.co/learn/agents-course/) by Hugging Face and [Practical Deep Learning for Coders](https://course.fast.ai/) by fast.ai
-- 🛠️ I'm currently working on a [🐾 Multi-Task Pet Health Text Classifier](https://huggingface.co/spaces/karenwky/multi-task-pet-health-symptom-text-classifier-demo) project
+- 🌱 I’m currently learning [Agents Course](https://huggingface.co/learn/agents-course/) and [MCP Course](https://huggingface.co/learn/mcp-course/) by Hugging Face
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/wongkayankaren) or [Email](wongkayankaren@gmail.com)
 - 👩🏻 Pronouns: She/Her
 - 🐱 Profile pic generated with [Playground v2.5](https://playground.com/)
 - 📝 Fun facts: I enjoy asking AI questions, writing documentation and having stuff organized
+
+---
+
+### Latest Projects
+<a href="https://github.com/karenwky/cn-idiom-game">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=cn-idiom-game&border_color=D05FED" />
+</a>
+<a href="https://github.com/karenwky/hugging-face-agents-course">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=hugging-face-agents-course&border_color=D05FED" />
+</a>
 
 ---
 
@@ -20,7 +28,7 @@
 
 ---
 
-[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Karen Wong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karenwky&show_icons=true&title_color=D05FED&icon_color=c04cf2&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **karenwky/karenwky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +44,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Karen Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenwky&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Karen Wong's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenwky)](https://github.com/anuraghazra/github-readme-stats)
+[![Karen Wong's GitHub Stats Detail](https://github-readme-stats.vercel.app/api?username=karenwky&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
