@@ -9,7 +9,7 @@
 
 ### Latest Projects
 [![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
-[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal)](https://github.com/karenwky/hugging-face-agents-course)
+[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal&v=2)](https://github.com/karenwky/hugging-face-agents-course)
 
 ---
 
