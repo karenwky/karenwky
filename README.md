@@ -8,12 +8,8 @@
 ---
 
 ### Latest Projects
-<a href="https://github.com/karenwky/cn-idiom-game">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=cn-idiom-game&border_color=D05FED" />
-</a>
-<a href="https://github.com/karenwky/hugging-face-agents-course">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=hugging-face-agents-course&border_color=D05FED" />
-</a>
+[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
+[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal)](https://github.com/karenwky/hugging-face-agents-course)
 
 ---
 
@@ -47,6 +43,13 @@ Here are some ideas to get you started:
 ![Profile README Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=karenwky.karenwky)
 [![Karen Wong's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenwky)](https://github.com/anuraghazra/github-readme-stats)
 [![Karen Wong's GitHub Stats Detail](https://github-readme-stats.vercel.app/api?username=karenwky&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing&mode=light&style=horizontal)](https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing)
+[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
 show social card of website, reference from: https://github.com/xiaoluoboding/xiaoluoboding/blob/master/README.md
+
+<a href="https://github.com/karenwky/cn-idiom-game">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=cn-idiom-game&border_color=D05FED" />
+</a>
+<a href="https://github.com/karenwky/hugging-face-agents-course">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karenwky&repo=hugging-face-agents-course&border_color=D05FED" />
+</a>
 -->
