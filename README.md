@@ -8,8 +8,9 @@
 ---
 
 ### Latest Projects
-[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
-[![Website Bookmark](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal&v=2)](https://github.com/karenwky/hugging-face-agents-course)
+[![Smart Customer Support Triage Agent GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/cs-agent&mode=light&style=horizontal)](https://github.com/karenwky/cs-agent)
+[![Chinese 4-Character Idiom Game GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
+[![Hugging Face Agents Course GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal&v=2)](https://github.com/karenwky/hugging-face-agents-course)
 
 ---
 
