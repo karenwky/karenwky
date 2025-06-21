@@ -7,10 +7,43 @@
 
 ---
 
-### Latest Projects
-[![Smart Customer Support Triage Agent GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/cs-agent&mode=light&style=horizontal)](https://github.com/karenwky/cs-agent)
-[![Chinese 4-Character Idiom Game GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/cn-idiom-game&mode=light&style=horizontal)](https://github.com/karenwky/cn-idiom-game)
-[![Hugging Face Agents Course GitHub Repo](https://svg.bookmark.style/api?url=https://github.com/karenwky/hugging-face-agents-course&mode=light&style=horizontal&v=2)](https://github.com/karenwky/hugging-face-agents-course)
+### Projects
+
+|Category| Project| Tech Stack
+|----|----|----
+|Agentic RAG|[💬 Smart Customer Support Triage Agent](https://github.com/karenwky/cs-agent)|LlamaIndex, LlamaCloud, Gradio, Claude, LlamaTrace (Arize Phoenix), Python
+|Deep Learning|[🐾 Pet Health Multi-Task Text Classifier](https://huggingface.co/spaces/karenwky/multi-task-pet-health-symptom-text-classifier-demo)| DistilBERT, Transformers‎, PyTorch, Gradio, Python
+|Prompt Engineering|[🧩 Chinese 4-Character Idiom Game (四字成语填空游戏)](https://github.com/karenwky/cn-idiom-game)|Amazon Q CLI, Pygame, Termios/Fcntl, Python
+|Prompt Engineering|[🎭 Shakespearean Made Easy](https://github.com/karenwky/shakespearean-made-easy)|GitHub Models (Azure AI), Vite.js, Vercel, Cursor, HTML/CSS, JavaScript
+|Computer Vision|[👗 ClosetAI](https://github.com/karenwky/Computer_Vision_ClosetAI)|Mask R-CNN, OpenCV, TensorFlow, Keras, Flask, Python
+|Recommendation System|[🥘 Allrecipes.com](https://github.com/karenwky/Recommendation_System_Allrecipes)| Pandas, SciPy, Keras, Matplotlib, Flask, Python
+|Predictive Modeling|[🐎 Hong Kong Horse Racing](https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing)|LightGBM, kNN Classifier, scikit-learn, imblearn, Joblib, Pandas, Python
+|EDA & Visualization|[🏠 Hong Kong Property](https://github.com/karenwky/Visualization_Hong_Kong_Property)| Pandas, Beautiful Soup, Regex, Seaborn, Matplotlib, Python
+|Dashboard|[✈️ Airbnb(Los Angeles)](https://github.com/karenwky/Tableau_Airbnb_LA)| Tableau, Pandas, Python
+
+### Coursework
+
+|Category| Coursework| Tech Stack
+|----|----|----
+|MLOps|[🩺 Diabetes Progression Predictor](https://github.com/karenwky/diabetes-predictor)|Docker, FastAPI, scikit-learn, Pydantic, Uvicorn, NumPy, Python
+|AI Agent|[🤗 Hugging Face Agents Course](https://github.com/karenwky/hugging-face-agents-course)|smolagents, LlamaIndex, LangGraph, Ollama, Qwen, Gradio, Python
+|AI Agent|[🧬 Strands Agents SDK](https://github.com/karenwky/strands-agents)|Strands Agents, Ollama, Qwen, Python
+|Deep Learning|[🍔 Food or Not Food Text Classifier](https://github.com/karenwky/learn-hugging-face/tree/main/01_text-classification)|DistilBERT, Transformers‎, PyTorch, Gradio, Python
+|Deep Learning|[🧠 Practical Deep Learning for Coders](https://github.com/karenwky/practical-deep-learning-for-coders)|fastai, PyTorch, Python
+|Data Science|[💻 Bootcamp Assignments](https://github.com/karenwky/Bootcamp-Assignments)|scikit-learn, MySQL, MongoDB, BigQuery, Python
+|Cloud Computing|[🧡 AWS Projects](https://github.com/karenwky/aws-project-nextwork)|Amazon S3, Amazon QuickSight, draw.io
+|Programming|[🍏 HackerRank](https://github.com/karenwky/hackerrank)|Python, SQL
+|Programming|[💾 LeetCode](https://github.com/karenwky/leetcode)|Python
+|Programming|[🔷 C++ Tutorial for Beginners](https://github.com/karenwky/cpp)|C++
+
+### Open Source Contributions
+
+|Category| Open Source| Contributions
+|----|----|----
+|AI Agent|[🤗 Hugging Face Agents Course](https://github.com/huggingface/agents-course/commits?author=karenwky)|Documentation enhancements
+|AI Agent|[🤗 Hugging Face MCP Course](https://github.com/huggingface/mcp-course/commits?author=karenwky)|Code refactor, Documentation fix
+|TM1 (IBM Planning Analytics)|[🐍 TM1Py](https://github.com/cubewise-code/tm1py/commits?author=karenwky)|New feature enhancements, Bug fix
+|TM1 (IBM Planning Analytics)|[🪨 Bedrock](https://github.com/cubewise-code/bedrock/commits?author=karenwky)|Bug fix, Docstring enhancements
 
 ---
 
