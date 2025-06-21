@@ -4,6 +4,7 @@
 - 👩🏻 Pronouns: She/Her
 - 🐱 Avatar image generated with [Playground v2.5](https://playground.com/)
 - 📝 Fun facts: I enjoy asking AI questions, writing documentation and having stuff organized
+- 🏆 Earned [Agent Track Honorable Mention](https://www.gradio.app/hackathon-winners) in “Gradio Agents & MCP Hackathon 2025” with [💬 Smart Customer Support Triage Agent](https://github.com/karenwky/cs-agent)
 
 ---
 
