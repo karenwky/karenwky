@@ -61,6 +61,7 @@
 ![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-purple?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-green?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-black?style=for-the-badge)
 
 ### Machine Learning & AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
