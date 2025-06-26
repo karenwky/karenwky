@@ -104,7 +104,7 @@
 
 ---
 
-### Certifications
+## Certifications
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/llmagentsf24_certificate_no74.png" width="70"></img>](https://llmagents-learning.org/f24)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-machine-learning-engineer-associate.png" width="70"></img>](https://www.credly.com/badges/c2465f05-110d-459e-a945-c43b0fbd9cbe/public_url)
 [<img src="https://github.com/karenwky/karenwky/blob/main/img/aws-certified-machine-learning-engineer-associate-e.png" width="70"></img>](https://www.credly.com/badges/38c06635-8f42-4de2-9f76-c9dfbf4fac51/public_url)
