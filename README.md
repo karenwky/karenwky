@@ -15,7 +15,7 @@
 |Agentic RAG|[💬 Smart Customer Support Triage Agent](https://github.com/karenwky/cs-agent)|LlamaIndex, LlamaCloud, Gradio, Claude, LlamaTrace (Arize Phoenix), Python
 |Deep Learning|[🐾 Pet Health Multi-Task Text Classifier](https://huggingface.co/spaces/karenwky/multi-task-pet-health-symptom-text-classifier-demo)| DistilBERT, Transformers‎, PyTorch, Gradio, Python
 |Prompt Engineering|[🧩 Chinese 4-Character Idiom Game (四字成语填空游戏)](https://github.com/karenwky/cn-idiom-game)|Amazon Q CLI, Pygame, Termios/Fcntl, Python
-|Prompt Engineering|[🎭 Shakespearean Made Easy](https://github.com/karenwky/shakespearean-made-easy)|GitHub Models (Azure AI), Vite.js, Vercel, Cursor, HTML/CSS, JavaScript
+|Web Development|[🎭 Shakespearean Made Easy](https://github.com/karenwky/shakespearean-made-easy)|GitHub Models (Azure AI), Vite.js, Vercel, Cursor, HTML/CSS, JavaScript
 |Computer Vision|[👗 ClosetAI](https://github.com/karenwky/Computer_Vision_ClosetAI)|Mask R-CNN, OpenCV, TensorFlow, Keras, Flask, Python
 |Recommendation System|[🥘 Allrecipes.com](https://github.com/karenwky/Recommendation_System_Allrecipes)| Pandas, SciPy, Keras, Matplotlib, Flask, Python
 |Predictive Modeling|[🐎 Hong Kong Horse Racing](https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing)|LightGBM, kNN Classifier, scikit-learn, imblearn, Joblib, Pandas, Python
